@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\César\source\repos\VectorLite\src\main.cpp(15,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  VectorLite.vcxproj -> C:\Users\César\source\repos\VectorLite\Debug\VectorLite.exe
