@@ -10,6 +10,7 @@ This readme is a work in progress
 | Draw Polygons |         :x:        |
 |   CSS Styles  | :heavy_check_mark: |
 | Custom Styles | :heavy_check_mark: |
+|   Animations  |         :x:        |
 
 # Usage
 Example of usage
