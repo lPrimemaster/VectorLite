@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="720">
+<defs><style type = "text/css"><![CDATA[
+circle{ stroke: black; fill: none; }
+path  { stroke: black; fill: none; }
+circle.c1 {
+stroke: red;
+stroke-width: 5;
+fill: none;
+}
+path.p1 {
+stroke: blue;
+stroke-width: 5;
+fill: none;
+}]]></style></defs>
+<circle cx="300.000000" cy="300.000000" r="300.000000" class="c1"/>
+<path d = "M87.867966 87.867966 		L512.132019 87.867966 		L512.132019 512.132019 		L87.867966 512.132019Z" class="p1"/>
+</svg>
