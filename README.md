@@ -11,6 +11,7 @@ This readme is a work in progress
 |   CSS Styles  | :heavy_check_mark: |
 | Custom Styles | :heavy_check_mark: |
 |   Animations  |         :x:        |
+|      Text     |         :x:        |
 
 # Usage
 Example of usage
